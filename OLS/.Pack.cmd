@@ -1,0 +1,1 @@
+pyinstaller -F -w OLSÔ¤²âÆ÷.py

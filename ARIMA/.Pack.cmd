@@ -1,0 +1,1 @@
+pyinstaller -F -w ARIMAÔ¤²âÆ÷.py
